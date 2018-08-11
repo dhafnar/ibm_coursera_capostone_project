@@ -6,9 +6,9 @@ Belgian capital Brussels is the administrative seat of European Union. People wh
 
 Moving to a capital of another country is a big step, so one might want to move to a similar neighbourhood that he lived in his home country.
 
-## Data
-
 For the project, I will take Bežigrad, one of Ljubljana’s (capital of Slovenia) representative districts and compare it to the 19 municipalities of the Brussels-Capital Region. The goal is to find a municipality (or municipalities) that is the most similar in terms of venues to the Ljubljana’s representative district.
+
+## Data
 
 I will make the comparison based on the type of venues that are the most common in the district and municipalities. I will then perform a grouping using machine learning to determine which of the municipalities are the most similar to Bežigrad district.
 
