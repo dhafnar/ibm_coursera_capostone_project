@@ -12,7 +12,7 @@ For the project, I will take Bežigrad, one of Ljubljana’s  - capital of Slove
 
 I will make the comparison based on the type of venues that are the most common in the district and municipalities. I will then perform a grouping using machine learning to determine which of the municipalities are most similar to Bežigrad district.
 
-Foursquare enables us to search for specific venues at a certain location. Venues are places like coffee shops, restaurants, shops, parks etc. I will focus on types of venues, not names so that they are comparable across different locations.
+I will be using data from Foursquare. The service enables us to search for specific venues at a certain location. Venues are places like coffee shops, restaurants, shops, parks etc. I will focus on types of venues, not names so that they are comparable across different locations.
 
 For example, if the district is residential, you expect there to be a lot of small grocery stores, some coffee places etc. If the district is industrial, touristy or business oriented, the types of venues that are most frequent will be different. I will not do the analysis by myself but compare the data with machine learning techniques to determine the most similar municipalities.
 
